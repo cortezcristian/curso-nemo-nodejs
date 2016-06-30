@@ -18,3 +18,5 @@ Curso Nemo NodeJS
 
 - [Sequelize](http://docs.sequelizejs.com/en/latest/)
 
+## Clase 4
+- [Express REST API](https://github.com/cortezcristian/express-api-rest-sqlite)
